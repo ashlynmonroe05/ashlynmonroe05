@@ -1,5 +1,5 @@
-Wildlife Ecology
-Pronouns: she/her
+-Wildlife Ecology
+-Pronouns: she/her
 
 <!---
 ashlynmonroe05/ashlynmonroe05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
